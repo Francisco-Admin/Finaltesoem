@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Finaltesoem</string>
+    <string name="tituloapp">Registro</string>
+    <string name="hnombre">Ingrese su nombre</string>
+    <string name="hmatricula">Ingrese su matricula</string>
+    <string name="hcorreo">Ingrese su correo</string>
+    <string name="hpromediofinal">Ingrese su promedio final</string>
+    <string name="bregistrase">Registrar</string>
+    <string name="dnombre">Nombre</string>
+    <string name="dmatricula">Matricula</string>
+    <string name="dcorreo">Correo</string>
+    <string name="dpromedio">Promediofinal</string>
+    <string name="dpromediofinal">Promedio final</string>
+</resources>
